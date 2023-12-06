@@ -26,4 +26,6 @@ namespace Bliforhandler
         public int Price { get; set; }
         public bool IsBought { get; set; }
     }
+
+
 }
